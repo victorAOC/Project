@@ -77,7 +77,7 @@ elif calculation_type == "physics":
         d = float(input())
         result = physics.work(f, d)
     else:
-        print("Invalid command")
+        print("Invalid command!")
 
 
 
